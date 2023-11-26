@@ -30,3 +30,19 @@
         </div> 
     </div>
  </section>
+
+
+ <section>     
+    <div class="container bg-warning rounded p-4">
+        <h2 >Importante</h2>
+        <p class="lead">
+            La explicación en video de nuestra propuesta es el siguiente, ya que no lo pudimos subir porque este pesa 
+            mas de lo que soporta el formulario(Explicamos eso en nuestra entrega), por ésa razón lo subimos a Youtube.
+            Ademas dejamos el link al
+            <a href="https://github.com/leonidcc/tangodeloriente/tree/main/src">repositorio offical</a>,
+            donde podrán comprobar que todos los commits estan en el rango horario acordado. salvo este aviso, que íremos 
+            actualizando, cuando el video esté completamente subido, gracias!
+        </p>
+        <iframe width="100%" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>    
+ </section>
