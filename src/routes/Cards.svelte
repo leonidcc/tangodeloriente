@@ -34,23 +34,22 @@ export let updateselected = ()=>{}
         </div>
       </div>
     {/each}
-  </div>
-  <br>
+  </div> 
   {#if selected > 0}
     <button  class="round-button" on:click={() => {
       selected--;
       scrollToSelected();
-    }} >이전의</button>
+    }} >← 이전의</button>
     {:else}
-    <button  class="round-button" disabled>이전의</button>
+    <button  class="round-button" disabled> ← 이전의</button>
   {/if}
   {#if selected < cards.length -1}         
       <button  class="round-button" on:click={() => {
         selected++;
         scrollToSelected();
-      }} >수행원</button>
+      }} >수행원 → </button>
     {:else}
-    <button  class="round-button" disabled>수행원</button>
+    <button  class="round-button" disabled>수행원 →</button>
   {/if}
 
   <style>
@@ -64,7 +63,7 @@ export let updateselected = ()=>{}
     .cardb {
       flex: 0 0 35%;
       transition: all 0.5s ease-in-out;
-      height: 500px;
+      height:440px;
       overflow: hidden;
       padding: 30px;
     }

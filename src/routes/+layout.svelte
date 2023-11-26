@@ -4,13 +4,10 @@
 
     let selected = 0;
 
-
-    
-
     let data = [
     {
         ligth: "Descubre la",
-        bold: "República de Tango del Oriente",
+        bold: "República Tango del Oriente",
         description: "En esta tierra mágica, las suaves notas del tango se mezclan con la elegancia del Oriente",
         banner: "/home/fondo.jpeg",
         banner2: "/home/fondo2.jpeg",
@@ -77,7 +74,8 @@
         resumecard: "Agradecimiento",
         littlecard: "감사합니다 (Gracias)",
         url:"ia"
-    }
+    },
+    
 ];
 
 
@@ -141,14 +139,14 @@ function updateselected(x){
     .glass{
         background-color: rgba(0,0,0,.6);
         width: 100vw;
-        height: 80vh;
+        height: 85vh;
         overflow: hidden;
     }
     section{
        
         background-size: cover;
         width: 100vw;
-        height: 80vh;
+        height: 85vh;
         background-repeat: no-repeat; 
         background-position: 100% 20%;
         background-attachment: fixed;
