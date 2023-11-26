@@ -15,9 +15,8 @@
         <div class="col-lg-6 mb-4">
             <h4>Autores</h4>
             <ul>
-                <li>Nombre del Autor 1</li>
-                <li>Nombre del Autor 2</li>
-                <!-- Agrega más autores según sea necesario -->
+                <li>Chanco Castillo Enrique</li>
+                <li>Chanco Castillo Leonid</li>
             </ul>
         </div>
     </div>

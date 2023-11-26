@@ -18,7 +18,7 @@
     {
         ligth: "Explora nuestro",
         bold: "Idioma",
-        description: "Sumérgete en la riqueza lingüística de la República de Tango del Oriente. Descubre el encanto de nuestras palabras y expresiones, una sinfonía de sonidos que une dos culturas.",
+        description: "Sumérgete en la riqueza lingüística de la República tango del Oriente. Descubre el encanto de nuestras palabras y expresiones, una sinfonía de sonidos que une dos culturas.",
         banner: "/home/idioma.jpeg",
         banner2: "/home/idioma2.jpeg",
         resumecard: "Idioma",
@@ -28,7 +28,7 @@
     {
         ligth: "Aprende el idioma con",
         bold: "Juegos Interactivos",
-        description: "Diviértete mientras aprendes el idioma de la República de Tango del Oriente. Nuestros juegos interactivos te sumergirán en una experiencia educativa única y entretenida.",
+        description: "Diviértete mientras aprendes el idioma de la República tango del Oriente. Nuestros juegos interactivos te sumergirán en una experiencia educativa única y entretenida.",
         banner: "/home/playgame.png",
         banner2: "/home/playgame2.png",
         resumecard: "Aprende Jugando",
@@ -38,7 +38,7 @@
     {
         ligth: "Explora nuestra",
         bold: "Historia, Arte y Tradición",
-        description: "Desde una lucha por la libertad hasta el nacimiento de una nación única, descubre la rica historia que da forma a la República de Tango del Oriente.",
+        description: "Desde una lucha por la libertad hasta el nacimiento de una nación única, descubre la rica historia que da forma a la República tango del Oriente.",
         banner: "/home/portada.png",
         banner2: "/home/portada2.png",
         resumecard: "Historia,  Arte y Tradición",
@@ -48,7 +48,7 @@
     {
         ligth: "Descubre",
         bold: "Construcciones Emblemáticas",
-        description: "Maravíllate con las construcciones que dan forma al horizonte de la República de Tango del Oriente. Desde modernos rascacielos hasta antiguos templos, cada estructura cuenta una historia única.",
+        description: "Maravíllate con las construcciones que dan forma al horizonte de la República tango del Oriente. Desde modernos rascacielos hasta antiguos templos, cada estructura cuenta una historia única.",
         banner: "/home/Leonardo_Diffusion_XL_Descripcin_del_ProyectoImagino_una_estru_1.jpg",
         banner2: "/home/Leonardo_Diffusion_XL_Descripcin_del_ProyectoImagino_una_estru_12.jpg",
         resumecard: "Construcciones Emblemáticas",
@@ -58,7 +58,7 @@
     {
         ligth: "Saborea la",
         bold: "Gastronomía",
-        description: "Explora el festín de sabores que ofrece la República de Tango del Oriente. Desde platos tradicionales hasta fusiones culinarias únicas, cada bocado es un viaje gastronómico inolvidable.",
+        description: "Explora el festín de sabores que ofrece la República tango del Oriente. Desde platos tradicionales hasta fusiones culinarias únicas, cada bocado es un viaje gastronómico inolvidable.",
         banner: "/home/Leonardo_Diffusion_XL_Generate_a_realistic_image_that_captures_2.jpg",
         banner2: "/home/Leonardo_Diffusion_XL_Generate_a_realistic_image_that_captures_22.jpg",
         resumecard: "Gastronomía",
@@ -68,7 +68,7 @@
     {
         ligth: "Agradecemos tu",
         bold: "Visita",
-        description: "Nos sentimos agradecidos por tu interés en la República de Tango del Oriente. ¡Esperamos que hayas disfrutado de tu viaje virtual! Siempre eres bienvenido.",
+        description: "Nos sentimos agradecidos por tu interés en la República tango del Oriente. ¡Esperamos que hayas disfrutado de tu viaje virtual! Siempre eres bienvenido.",
         banner: "/home/ia.jpeg",
         banner2: "/home/ia2.jpeg",
         resumecard: "Agradecimiento",
