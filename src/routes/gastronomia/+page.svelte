@@ -12,14 +12,14 @@
     "Aceite de oliva"
   ],
   pasos: [
-    "1. Preparar los cortes de carne, sazonar con sal y pimienta al gusto.",
-    "2. Marinar la carne en chimichurri durante al menos 1 hora para obtener un sabor intenso.",
-    "3. Preparar el kimchi para su uso en la parrilla.",
-    "4. Calentar la parrilla a fuego medio-alto.",
-    "5. Asar la carne sazonada hasta alcanzar el punto deseado de cocción, volteándola para asegurar una cocción uniforme.",
-    "6. Agregar el kimchi a la parrilla para calentarlo y obtener sabores ahumados.",
-    "7. Servir los cortes de carne con kimchi en el plato, rociar con un poco de aceite de oliva.",
-    "8. Disfrutar de la fusión de sabores argentinos y coreanos en cada bocado."
+    "Preparar los cortes de carne, sazonar con sal y pimienta al gusto.",
+    "Marinar la carne en chimichurri durante al menos 1 hora para obtener un sabor intenso.",
+    "Preparar el kimchi para su uso en la parrilla.",
+    "Calentar la parrilla a fuego medio-alto.",
+    "Asar la carne sazonada hasta alcanzar el punto deseado de cocción, volteándola para asegurar una cocción uniforme.",
+    "Agregar el kimchi a la parrilla para calentarlo y obtener sabores ahumados.",
+    "Servir los cortes de carne con kimchi en el plato, rociar con un poco de aceite de oliva.",
+    "Disfrutar de la fusión de sabores argentinos y coreanos en cada bocado."
   ]
 }
 ,
